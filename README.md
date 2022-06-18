@@ -1,4 +1,6 @@
-# Aircrack Scripts
+# WifiCrack
+
+how to use
 
 1. run listen to listen to the router
 
