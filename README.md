@@ -7,6 +7,7 @@ Kali Linux:
 - Make sure you have aircrack-ng airmon-ng and airodumo-ng
 
 - Install : run install.sh
+
 	it automatically installs scripts in /usr/bin
 
 ## Scripts
@@ -21,8 +22,7 @@ dauthenticate user
 use a wordlist to crack password
 
 ### coffeeshop : 
-is a keygenerator for common passwords
-
- (designed with coffeeshops/public wifis in mind)
+is a password generator for common passwords
+ (designed with coffeeshops/public WiFis in mind)
 
 
