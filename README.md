@@ -1,15 +1,28 @@
 # WifiCrack
 
-how to use
+how to install
 
-1. run listen to listen to the router
+Kali Linux:
+ 
+- Make sure you have aircrack-ng airmon-ng and airodumo-ng
 
-while listen is running
+- Install : run install.sh
+	it automatically installs scripts in /usr/bin
 
-2. run deauth to deauthenticate chosen user (optional)
+## Scripts
 
-after capturing handshake
+### wclisten :
+ listen to the specified wireless interface
 
-3. run crack with a wordlist to crack password
+### wcdeauth : 
+dauthenticate user
 
-coffeeshop is a keygenerator for common coffeeshop passwords
+### wccrack : 
+use a wordlist to crack password
+
+### coffeeshop : 
+is a keygenerator for common passwords
+
+ (designed with coffeeshops/public wifis in mind)
+
+
