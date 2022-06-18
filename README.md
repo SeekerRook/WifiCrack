@@ -12,4 +12,4 @@ after capturing handshake
 
 3. run crack with a wordlist to crack password
 
-4. coffeeshop is a keygenerator for common coffeeshop passwords
+coffeeshop is a keygenerator for common coffeeshop passwords
